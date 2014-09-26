@@ -13,6 +13,13 @@
 /Users/monbro/Workspace/meteor/leaderboard/.meteor/local/cordova-build/platforms/android/ant-build/classes/com/monbro/hello/R$string.class \
 /Users/monbro/Workspace/meteor/leaderboard/.meteor/local/cordova-build/platforms/android/ant-build/classes/com/monbro/hello/R$xml.class \
 /Users/monbro/Workspace/meteor/leaderboard/.meteor/local/cordova-build/platforms/android/ant-build/classes/com/monbro/hello/R.class \
+/Users/monbro/Workspace/meteor/leaderboard/.meteor/local/cordova-build/platforms/android/ant-build/classes/com/phonegap/hellomonbro/BuildConfig.class \
+/Users/monbro/Workspace/meteor/leaderboard/.meteor/local/cordova-build/platforms/android/ant-build/classes/com/phonegap/hellomonbro/leaderboard.class \
+/Users/monbro/Workspace/meteor/leaderboard/.meteor/local/cordova-build/platforms/android/ant-build/classes/com/phonegap/hellomonbro/R$attr.class \
+/Users/monbro/Workspace/meteor/leaderboard/.meteor/local/cordova-build/platforms/android/ant-build/classes/com/phonegap/hellomonbro/R$drawable.class \
+/Users/monbro/Workspace/meteor/leaderboard/.meteor/local/cordova-build/platforms/android/ant-build/classes/com/phonegap/hellomonbro/R$string.class \
+/Users/monbro/Workspace/meteor/leaderboard/.meteor/local/cordova-build/platforms/android/ant-build/classes/com/phonegap/hellomonbro/R$xml.class \
+/Users/monbro/Workspace/meteor/leaderboard/.meteor/local/cordova-build/platforms/android/ant-build/classes/com/phonegap/hellomonbro/R.class \
 /Users/monbro/Workspace/meteor/leaderboard/.meteor/local/cordova-build/platforms/android/ant-build/classes/com/rjfun/cordova/httpd/AndroidFile.class \
 /Users/monbro/Workspace/meteor/leaderboard/.meteor/local/cordova-build/platforms/android/ant-build/classes/com/rjfun/cordova/httpd/CorHttpd$1.class \
 /Users/monbro/Workspace/meteor/leaderboard/.meteor/local/cordova-build/platforms/android/ant-build/classes/com/rjfun/cordova/httpd/CorHttpd$2.class \
