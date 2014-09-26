@@ -1,4 +1,4 @@
-/Users/monbro/Workspace/meteor/leaderboard/.meteor/local/cordova-build/platforms/android/ant-gen/com/meteor/leaderboard/R.java \
+/Users/monbro/Workspace/meteor/leaderboard/.meteor/local/cordova-build/platforms/android/ant-gen/com/monbro/hello/R.java \
  : /Users/monbro/Workspace/meteor/leaderboard/.meteor/local/cordova-build/platforms/android/res/drawable/icon.png \
 /Users/monbro/Workspace/meteor/leaderboard/.meteor/local/cordova-build/platforms/android/res/drawable-hdpi/icon.png \
 /Users/monbro/Workspace/meteor/leaderboard/.meteor/local/cordova-build/platforms/android/res/drawable-land-hdpi/screen.png \

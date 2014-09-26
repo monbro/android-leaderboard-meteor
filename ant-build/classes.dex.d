@@ -6,6 +6,13 @@
 /Users/monbro/Workspace/meteor/leaderboard/.meteor/local/cordova-build/platforms/android/ant-build/classes/com/meteor/leaderboard/R$string.class \
 /Users/monbro/Workspace/meteor/leaderboard/.meteor/local/cordova-build/platforms/android/ant-build/classes/com/meteor/leaderboard/R$xml.class \
 /Users/monbro/Workspace/meteor/leaderboard/.meteor/local/cordova-build/platforms/android/ant-build/classes/com/meteor/leaderboard/R.class \
+/Users/monbro/Workspace/meteor/leaderboard/.meteor/local/cordova-build/platforms/android/ant-build/classes/com/monbro/hello/BuildConfig.class \
+/Users/monbro/Workspace/meteor/leaderboard/.meteor/local/cordova-build/platforms/android/ant-build/classes/com/monbro/hello/leaderboard.class \
+/Users/monbro/Workspace/meteor/leaderboard/.meteor/local/cordova-build/platforms/android/ant-build/classes/com/monbro/hello/R$attr.class \
+/Users/monbro/Workspace/meteor/leaderboard/.meteor/local/cordova-build/platforms/android/ant-build/classes/com/monbro/hello/R$drawable.class \
+/Users/monbro/Workspace/meteor/leaderboard/.meteor/local/cordova-build/platforms/android/ant-build/classes/com/monbro/hello/R$string.class \
+/Users/monbro/Workspace/meteor/leaderboard/.meteor/local/cordova-build/platforms/android/ant-build/classes/com/monbro/hello/R$xml.class \
+/Users/monbro/Workspace/meteor/leaderboard/.meteor/local/cordova-build/platforms/android/ant-build/classes/com/monbro/hello/R.class \
 /Users/monbro/Workspace/meteor/leaderboard/.meteor/local/cordova-build/platforms/android/ant-build/classes/com/rjfun/cordova/httpd/AndroidFile.class \
 /Users/monbro/Workspace/meteor/leaderboard/.meteor/local/cordova-build/platforms/android/ant-build/classes/com/rjfun/cordova/httpd/CorHttpd$1.class \
 /Users/monbro/Workspace/meteor/leaderboard/.meteor/local/cordova-build/platforms/android/ant-build/classes/com/rjfun/cordova/httpd/CorHttpd$2.class \
